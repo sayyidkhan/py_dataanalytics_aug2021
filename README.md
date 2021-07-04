@@ -1,6 +1,10 @@
 # Python + Machine Learning for Marketing (August 2021 Batch)
 Python data analytics + Machine Learning for Marketing - 6 Days
 
+![image](https://user-images.githubusercontent.com/22993048/124384235-dfd6c700-dd02-11eb-9949-63a4fe90fe8c.png | width=100)
+![image](https://user-images.githubusercontent.com/22993048/124384254-f4b35a80-dd02-11eb-85b9-4c60b65b6ffc.png | width=100)
+
+
 #### pre-requisites for the course:
 1. have **jupyter notebook** installed with the **anaconda framework** or
 2. know how to setup google collab
