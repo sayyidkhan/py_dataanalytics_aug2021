@@ -1,4 +1,5 @@
 # py_dataanalytics_aug2021
+Python data analytics + Machine Learning for Marketing - 6 Days
 
 # Python Data Analytics
 ### Total no of days: 3 days
