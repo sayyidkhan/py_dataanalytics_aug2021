@@ -1,5 +1,5 @@
-# Python + Machine Learning for Marketing (August 2021 Batch)
-Python data analytics + Machine Learning for Marketing - 6 Days
+# Python + Excel with Data Analytics + Machine Learning for Marketing (August 2021 Batch)
+Python data analytics + Machine Learning for Marketing - 7 Days
 
 <img src="https://user-images.githubusercontent.com/22993048/124384235-dfd6c700-dd02-11eb-9949-63a4fe90fe8c.png" width=500 >
 <img src="https://user-images.githubusercontent.com/22993048/124384254-f4b35a80-dd02-11eb-85b9-4c60b65b6ffc.png" width=500 >
@@ -11,11 +11,18 @@ Python data analytics + Machine Learning for Marketing - 6 Days
 3. pre-requisite knowledge in python (foundational level)
 
 # Python Data Analytics
-### Total no of days: 3 days
+### Total no of days: 2 days
 - numpy 
 - matplotlib
 - pandas
 - descriptive analytics
+
+# Excel With Data Analytics
+### Total no of days: 2 days
+- Computed Fields & Logical Functions
+- Excel Beginner & Intermediate Functions
+- Lookup Tables
+- Microsoft Excel Charting Course
 
 # Machine Learning for marketing
 ### Total no of days: 3 days
